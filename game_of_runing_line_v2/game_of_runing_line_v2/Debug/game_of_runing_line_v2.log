@@ -1,0 +1,85 @@
+﻿Сборка начата 19.11.2019 20:24:01.
+     1>Проект "C:\Users\Администратор\Documents\Visual Studio 2013\Projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\game_of_runing_line_v2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt game_of_runing_line_v2.cpp
+         game_of_runing_line_v2.cpp
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(86): error C2059: синтаксическая ошибка: }
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(93): error C2039: part_of_line: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(93): error C2059: синтаксическая ошибка: ]
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(95): error C2039: obstacle: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(95): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "Obstacle"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(95): error C2059: синтаксическая ошибка: )
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(97): error C2039: part_of_line: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(97): error C2059: синтаксическая ошибка: ]
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(99): error C2061: синтаксическая ошибка: идентификатор "obstacle"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(101): error C2039: part_of_line: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(101): error C2059: синтаксическая ошибка: ]
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(103): error C2061: синтаксическая ошибка: идентификатор "_TCHAR"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(107): error C2039: srand: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(107): error C2039: time: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(108): error C2039: part_of_line: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(108): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Line"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(108): error C2039: Line: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(108): error C2039: right_border: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(109): error C2039: part_of_line: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(109): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Line2"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(109): error C2039: Line2: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(109): error C2039: right_border: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(110): error C2039: player: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(110): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Player"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(110): error C2039: Player: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(111): error C2039: obstacle: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(111): error C2039: Obstacle: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(111): error C2061: синтаксическая ошибка: идентификатор "obstacle"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(117): error C2039: system: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(118): error C2039: cout: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(118): error C2039: Obstacle: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(118): error C2039: GetX: не является членом "List::Node"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(71): см. объявление "List::Node"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(119): error C2065: Obstacle: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(119): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(120): error C2065: Obstacle: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(120): error C2227: выражение слева от "->GetX" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(121): error C2065: Obstacle: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(123): error C2065: Line: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(123): error C2065: Line2: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(123): error C3861: initialization: идентификатор не найден
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(128): error C2065: Line: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(128): error C2065: Line2: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(128): error C2065: Obstacle: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(128): error C2065: Player: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(128): error C3861: gameplay: идентификатор не найден
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(130): error C2065: Obstacle: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(131): error C2065: Obstacle: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(131): error C2065: Player: необъявленный идентификатор
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(196): error C3861: displaying: идентификатор не найден
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(208): error C2365: death_output: переопределение; предыдущим определением было "переменная данных"
+                 c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(95): см. объявление "death_output"
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(241): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+     1>c:\users\администратор\documents\visual studio 2013\projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.cpp(242): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+     1>Сборка проекта "C:\Users\Администратор\Documents\Visual Studio 2013\Projects\game_of_runing_line_v2\game_of_runing_line_v2\game_of_runing_line_v2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:03.04
